@@ -1,0 +1,19 @@
+.first-header{
+    display: flex;
+    margin: 2vh 0;
+    
+    
+}
+.logo{
+    height: 10vh;
+}
+
+.first-header div {
+    flex: 1;
+    text-align: center;
+}
+
+#header{
+    box-shadow:10px 5px 5px rgba(139, 138, 138, 0.5);
+    margin: 5vh 0;
+}

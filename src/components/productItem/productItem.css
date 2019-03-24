@@ -1,0 +1,6 @@
+.item-footer{
+    display: flex;
+    align-items: right;
+    padding: 40;
+    margin: 40;
+}

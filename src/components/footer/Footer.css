@@ -1,0 +1,21 @@
+.footer{
+    display: flex;  
+    padding: 20px 20px;
+}
+
+
+.it-footer{
+    flex: 1;
+    text-align: center;
+}
+
+.footer-info{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+#al-start{
+    margin: 0 auto;
+    text-align: start;
+}
